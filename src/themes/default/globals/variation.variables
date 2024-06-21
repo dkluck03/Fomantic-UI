@@ -232,6 +232,7 @@
 @variationSegmentLoading: true;
 @variationSegmentFloating: true;
 @variationSegmentAligned: true;
+@variationSegmentJustified: true;
 @variationSegmentSecondary: true;
 @variationSegmentTertiary: true;
 @variationSegmentAttached: true;
